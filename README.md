@@ -8,6 +8,4 @@ Model Implementation: Detailed implementation of Decision Tree and Logistic Regr
 Performance Evaluation: In-depth model comparison and performance evaluation using ROC curves, precision, and recall metrics.
 Data Source: Utilizes data from LendingClub.com (2007-2010) with 9,578 records.
 
-# Requirements
-Python 3.x
-Libraries: Pandas, NumPy, Scikit-learn, Matplotlib
+
