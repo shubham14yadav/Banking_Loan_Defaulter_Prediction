@@ -10,8 +10,11 @@ Data Source: Utilizes data from LendingClub.com (2007-2010) with 9,578 records.<
 
 # Key Findings<br>
 High-Risk Indicators Identified: Analysis revealed specific borrower attributes, such as credit score and debt-to-income ratio, as significant indicators of loan default risk.<br>
+
 Model Performance: The Decision Tree model demonstrated high precision in identifying defaulters, while the Logistic Regression model excelled in overall accuracy.<br>
+
 Imbalanced Data Handling: Techniques like SMOTE (Synthetic Minority Over-sampling Technique) were effectively employed to address data imbalance, improving model reliability.<br>
+
 Predictive Insights: The project provided valuable insights for financial institutions in refining their loan approval processes, potentially reducing default rates.<br>
 
 
